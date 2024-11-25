@@ -4,7 +4,7 @@
     "fsrMinCompatibility": "7.2.0",
     "type": "solutionpack",
     "local": true,
-    "label": "Custom Solution Pack Upgradability 5",
+    "label": "Custom Solution Pack Upgradability-5",
     "dependencies": [],
     "prerequisite": null,
     "publisher": "Community",
